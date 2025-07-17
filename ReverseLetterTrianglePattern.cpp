@@ -9,7 +9,7 @@ int main(){
             one++;
         }
         one = 'A';
-        cout<<"\n";
+        cout<<endl;
     }
     return 0;
 }

@@ -6,7 +6,7 @@ int main(){
         for(int j=n-i;j<n;j++){
             cout<<"*";
         }
-        cout<<"\n";
+        cout<<endl;
     }
     return 0;
 }

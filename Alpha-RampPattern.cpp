@@ -8,6 +8,6 @@ int main(){
             cout<<one;
         }
         one++;
-        cout<<"\n";
+        cout<<endl;
     }
 }

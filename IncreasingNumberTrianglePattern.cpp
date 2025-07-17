@@ -9,7 +9,7 @@ int main(){
             count++;
         }
         
-        cout<<"\n";
+        cout<<endl;
     }
     return 0;
 }

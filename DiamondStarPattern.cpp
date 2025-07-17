@@ -11,7 +11,7 @@ void pattern1(int n){
             cout<<"*";
         }
 
-        cout<<"\n";
+        cout<<endl;
     }
 }
 
